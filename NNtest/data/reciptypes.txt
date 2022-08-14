@@ -1,0 +1,15 @@
+advertising
+assistantprovider
+children
+closefamily
+friends
+housekeeper
+housemates
+lawenforcement
+neighbours
+otherskill
+parents
+partner
+siblings
+skills
+visitors
